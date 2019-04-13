@@ -19,12 +19,28 @@ Collections of Papers and Notes on Single Cell Studies in Pain Research
 
 ## Dorsal Root Ganglia Single Cell RNA-seq Studies
 
+### Naive
 - Hockley, J.R.F., Taylor, T.S., Callejo, G., Wilbrey, A.L., Gutteridge, A., Bach, K., Winchester, W.J., Bulmer, D.C., McMurray, G., and Smith, E.S.J. (2018). Single-cell RNAseq reveals seven classes of colonic sensory neuron. Gut gutjnl–2017–315631.
   - Smart-seq2 based scRNA-seq
   - Retrograde labeling to capture colon-terminating DRGs (first study to do this)
 - Zeisel, A., Hochgerner, H., Lönnerberg, P., Johnsson, A., Memic, F., van der Zwan, J., Häring, M., Braun, E., Borm, L.E., La Manno, G., et al. (2018). Molecular Architecture of the Mouse Nervous System. Cell 174, 999–1014.e22. [#Zeisel:2018iu]
+- Li, C.-L., Li, K.-C., Wu, D., Chen, Y., Luo, H., Zhao, J.-R., Wang, S.-S., Sun, M.-M., Lu, Y.-J., Zhong, Y.-Q., et al. (2016). Somatosensory neuron types identified by high-coverage single-cell RNA-sequencing and functional heterogeneity. Cell Res 26, 83–102.[#Li:2016kq]
+  - Manaul pickup of cells and SMARTer cDNA amplification
+  - 10 clusters of DRG identified
+  - Correlation with function: _in vivo_ DRG patch-clamp recording followed by single-cell PCR
 - Usoskin, D., Furlan, A., Islam, S., Abdo, H., Lönnerberg, P., Lou, D., Hjerling-Leffler, J., Haeggström, J., Kharchenko, O., Kharchenko, P.V., et al. (2014). Unbiased classification of sensory neuron types by large-scale single-cell RNA sequencing. Nat Neurosci.[#Usoskin:2014hs]
-
+  - Landmark scRNA-seq study on mouse DRG
+  - Identified 11 types of distinct neurons
+  - Manual pickup and processing with STRT-seq
+  
+  
+ ### Diseased/Treated
+ 
+ - Hu, G., Huang, K., Hu, Y., Du, G., Xue, Z., Zhu, X., and Fan, G. (2016). Single-cell RNA-seq reveals distinct injury responses in different types of DRG sensory neurons. Sci. Rep. 6, 31851.[#Hu:2016bya]
+  - Spinal nerve transection (SNT) POD3 and POD7
+  - Small cell number: 106 in total 
+  - Identified differential neuronal responses to injury
+  
 ## Spatial Transcriptomics of the Spinal Cord
 
 - Maniatis, S., Äijö, T., Vickovic, S., Braine, C., Kang, K., Mollbrink, A., Fagegaltier, D., Andrusivová, Ž., Saarenpää, S., Saiz-Castro, G., et al. (2019). Spatiotemporal dynamics of molecular pathology in amyotrophic lateral sclerosis. Science 364, 89–93. [#Maniatis:2019dc]
