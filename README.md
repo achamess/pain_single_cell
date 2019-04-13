@@ -20,4 +20,4 @@ Collections of Papers and Notes on Single Cell Studies in Pain Research
 
 ## Spatial Transcriptomics of the Spinal Cord
 
-Maniatis, S., Äijö, T., Vickovic, S., Braine, C., Kang, K., Mollbrink, A., Fagegaltier, D., Andrusivová, Ž., Saarenpää, S., Saiz-Castro, G., et al. (2019). Spatiotemporal dynamics of molecular pathology in amyotrophic lateral sclerosis. Science 364, 89–93. [#Maniatis:2019dc]
+- Maniatis, S., Äijö, T., Vickovic, S., Braine, C., Kang, K., Mollbrink, A., Fagegaltier, D., Andrusivová, Ž., Saarenpää, S., Saiz-Castro, G., et al. (2019). Spatiotemporal dynamics of molecular pathology in amyotrophic lateral sclerosis. Science 364, 89–93. [#Maniatis:2019dc]
