@@ -6,12 +6,19 @@ Collections of Papers and Notes on Single Cell Studies in Pain Research
 
 - Delile, J., Rayon, T., Melchionda, M., Edwards, A., Briscoe, J., and Sagner, A. (2019). Single cell transcriptomics reveals spatial and temporal dynamics of gene expression in the developing mouse spinal cord. Development 146, dev173807. [#Delile:2019go]
 - Häring, M., Zeisel, A., Hochgerner, H., Rinwa, P., Jakobsson, J.E.T., Lönnerberg, P., Manno, G., Sharma, N., Borgius, L., Kiehn, O., et al. (2018). Neuronal atlas of the dorsal horn defines its architecture and links sensory input to transcriptional cell types. Nat Neurosci 61, 1.[#Haring:2018dx]
-  - Fluidigm C1 Single **Cell** (not nuclei) RNA-seq from adult mouse spinal cord
-  - Enriched dorsal horn neurons using Vglut2-EYFP and Vgat-EYFP
-  - Defined **30 neuronal types**
-  - Verified mRNA expression using multiplexed RNAscope
-  - Identified neuronal types responsive to heat and cold using _Arc_ expression by RNAscope
+  - **Method**: Fluidigm C1 Single **Cell** (not nuclei) RNA-seq from adult mouse spinal cord. Enriched dorsal horn neurons using Vglut2-EYFP and Vgat-EYFP
+  - **Findings**:
+    - Defined **30 neuronal types**
+    - 15 GABA/15 GLUT (w/ one dual)
+    - Verified mRNA expression using multiplexed RNAscope
+    - Identified neuronal types responsive to heat and cold using _Arc_ expression by RNAscope
 - Rosenberg, A.B., Roco, C.M., Muscat, R.A., Kuchina, A., Sample, P., Yao, Z., Gray, L., Peeler, D.J., Mukherjee, S., Chen, W., et al. (2018). Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science 12, eaam8999.[#Rosenberg:2018it]
+  - **Method**: SPLIT-seq (method development paper)
+  - **Findings**:
+    - Identiified multiple known and unknown spinal cell types
+    - Massive number of cells. 
+    - Mixed the entire spinal cord, not just a single level. 
+   
 - Sathyamurthy, A., Johnson, K.R., Matson, K.J.E., Dobrott, C.I., Li, L., Ryba, A.R., Bergman, T.B., Kelly, M.C., Kelley, M.W., and Levine, A.J. (2018). Massively Parallel Single Nucleus Transcriptional Profiling Defines Spinal Cord Neurons and Their Activity during Behavior. Cell Reports 22, 2216–2225.[#Sathyamurthy:2018cz]
   - First study to define cell types in the mouse spinal cord using snRNA-seq (Drop-seq)
   - Formalin-inject + Fos (IEG) expression using snRNA-seq to identify stimulus-responsive cell types
@@ -36,11 +43,17 @@ Collections of Papers and Notes on Single Cell Studies in Pain Research
   
  ### Diseased/Treated
  
- - Hu, G., Huang, K., Hu, Y., Du, G., Xue, Z., Zhu, X., and Fan, G. (2016). Single-cell RNA-seq reveals distinct injury responses in different types of DRG sensory neurons. Sci. Rep. 6, 31851.[#Hu:2016bya]
+- Hu, G., Huang, K., Hu, Y., Du, G., Xue, Z., Zhu, X., and Fan, G. (2016). Single-cell RNA-seq reveals distinct injury responses in different types of DRG sensory neurons. Sci. Rep. 6, 31851.[#Hu:2016bya]
   - Spinal nerve transection (SNT) POD3 and POD7
   - Small cell number: 106 in total 
   - Identified differential neuronal responses to injury
   
 ## Spatial Transcriptomics of the Spinal Cord
 
+### Diseased/Treated
+
 - Maniatis, S., Äijö, T., Vickovic, S., Braine, C., Kang, K., Mollbrink, A., Fagegaltier, D., Andrusivová, Ž., Saarenpää, S., Saiz-Castro, G., et al. (2019). Spatiotemporal dynamics of molecular pathology in amyotrophic lateral sclerosis. Science 364, 89–93. [#Maniatis:2019dc]
+  - **Method**: Spatial Transcriptomics
+  - **Design**: Mouse ALS Model (SOD1) and Human ALS tissue with bulbar and lumbar onsets
+  - **Findings**: Identified genes and gene modules differentially altered in ALS 
+  - **Comments**: First study to apply a Spatial Tx platform to spinal cord, and especially human spinal cord. It was able to detect large differences in the disease state. 
