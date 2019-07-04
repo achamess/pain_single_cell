@@ -39,6 +39,8 @@ Collections of Papers and Notes on Single Cell Studies in Pain Research
   - Landmark scRNA-seq study on mouse DRG
   - Identified 11 types of distinct neurons
   - Manual pickup and processing with STRT-seq
+  - Clustering with Bayesian methods
+  
   
   
  ### Diseased/Treated
